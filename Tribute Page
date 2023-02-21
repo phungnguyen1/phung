@@ -1,0 +1,59 @@
+<link rel="stylesheet" href="styles.css">
+
+<style>
+  #title{
+font-size: 40px;
+        }
+  body {
+    font-family: garamond;
+    background-color: E5E4E2;
+    padding: 10px;
+       }
+
+  img {
+    height: auto;
+    max-width: 100%;
+    display: block;
+      }
+#tribute-info{
+  text-align: center;
+  font-size: 17px;
+}
+</style>
+
+<main id="main">
+
+<center>
+  <h1 id="title">"Bichon Poodles"</h1>
+</center>
+
+
+<div id="img-div"> 
+  <img id="image"
+src = "https://petlandmason.com/wp-content/uploads/2020/05/1684818_800.jpg">
+
+
+  <div id="img-caption"><center><em>
+  One of the cutest dogs in the world!
+    </em></center></div>
+
+</div>
+
+<div id = "tribute-info">
+    <p> Bichon poodles are the combination of a Bichon Frise and a poodle. The result is a lovable companion with the softest fur and a sweet smiling face.</p>
+
+<p>These dogs were bred specifically to be cute and cuddly lap dogs.</p>
+
+<p>They have all of the intelligence of a Poodle combined with the friendly and funny nature of a Bichon Frise. 
+    </p>
+</div>
+
+<center> 
+  <a id = "tribute-link"   
+ href="https://www.marvelousdogs.com/bichon-poodle/"
+  target="_blank">
+More about Bichon Poodles
+  </a>
+</center>
+
+  </main>
